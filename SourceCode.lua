@@ -1038,5 +1038,3 @@ ScriptBloxSearcher.MainFrame.ScriptListFrame:GetPropertyChangedSignal("CanvasPos
 		addScripts(fetchScripts(gquery, page))
 	end
 end)
-
-_77Watermark('https://yxubot.vercel.app')
